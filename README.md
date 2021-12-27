@@ -1,4 +1,4 @@
-# Food Finder App in React Native
+# Dreamers App 
 
 This repository is based on my YouTube tutorial series where I'm creating a complete app UI by using different essential react native packages which is useful for creating any kind of app.
 
